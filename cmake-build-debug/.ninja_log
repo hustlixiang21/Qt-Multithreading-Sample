@@ -1,0 +1,12 @@
+# ninja log v5
+439	2599	7226141307513200	CMakeFiles/mission3.dir/main.cpp.obj	59709fbca94f3246
+7	160	7227733300046427	mission3_autogen/timestamp	278102e3a9d7b10d
+164	3579	7227733334192169	CMakeFiles/mission3.dir/mainwindow.cpp.obj	c529625ecc6fc636
+7	160	7227733300046427	mission3_autogen/mocs_compilation.cpp	278102e3a9d7b10d
+7	160	7227733300046427	E:/ClionProjects/mission3/cmake-build-debug/mission3_autogen/timestamp	278102e3a9d7b10d
+3581	4423	7227733339713820	mission3.exe	56f1432d3c99e05b
+2	600	7226039090585191	build.ninja	d2edb5fe7d45895b
+7	160	7227733300046427	E:/ClionProjects/mission3/cmake-build-debug/mission3_autogen/mocs_compilation.cpp	278102e3a9d7b10d
+441	2625	7226141307773693	CMakeFiles/mission3.dir/mission3_autogen/mocs_compilation.cpp.obj	c7471024fa45631
+445	2120	7226141302710086	CMakeFiles/mission3.dir/SquareThread.cpp.obj	31edeaa02f3fa806
+119	1348	7226153150995553	CMakeFiles/mission3.dir/CircleThread.cpp.obj	c611a863ddf06b1d
